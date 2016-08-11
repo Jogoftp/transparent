@@ -1,0 +1,11 @@
+html, body {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.header h1 {
+  text-align: center;
+  padding-top: 50px;
+  color: #c34545;
+
+
+}
